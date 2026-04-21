@@ -1,6 +1,6 @@
 Retail Billing System
 
-A full-stack Retail Billing System designed to manage customers, products, and billing operations efficiently. This project provides a real-world billing interface with GST calculation and seamless backend integration.
+A full-stack Retail Billing System built to streamline customer management, product handling, and billing operations. The application simulates real-world retail workflows with GST-compliant invoice generation, seamless backend integration, and an intuitive user interface.
 
 ## Tech Stack
 1) Frontend
@@ -107,4 +107,4 @@ This project was built as part of learning full-stack development using React an
 
 ## Imp Note
 
-Make sure MySQL is running and properly configured in `application.properties` before starting the backend.
+Ensure MySQL is running and properly configured in the application.properties file before starting the backend server.
