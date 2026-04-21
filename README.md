@@ -28,21 +28,21 @@ A full-stack Retail Billing System built to streamline customer management, prod
 *  PDF Bill Generation
 
 ## Project Structure
-
+```
 retail-billing-system/
  ├── backend/
  │    └── Spring Boot Project (backend )
  └── frontend/
       └── React Project ( frontend )
-
+```
 ##  Installation & Setup
 
 ## Backend Setup (Spring Boot)
 
 1. Navigate to backend folder:
-
+```
    cd backend
-
+```
 2. Run the application:
   by clicking on the folder and running on RUN JAVA APPLICATION
 
@@ -81,7 +81,7 @@ retail-billing-system/
 ---
 
 ##  API Endpoints (Sample)
-
+```
 | Method  | Endpoint   | Description      |
 | ------ | ---------- | ----------------- |
 | GET    | /customers | Get all customers |
@@ -89,7 +89,7 @@ retail-billing-system/
 | GET    | /products  | Get all products  |
 | POST   | /products  | Add new product   |
 | POST   | /billing   | Generate bill     |
-
+```
 ## Future Enhancements / Upgradation
 
 *  JWT Authentication
