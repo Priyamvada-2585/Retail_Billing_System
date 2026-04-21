@@ -100,7 +100,7 @@ retail-billing-system/
 ##  Author
 
 * Priyamvada Kumar
-* 
+ 
 ##  Acknowledgment
 
 This project was built as part of learning full-stack development using React and Spring Boot.
